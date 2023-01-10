@@ -48,6 +48,8 @@ pip install -U scikit-learn
 
 ### 2. Preparing files
 * Download models: [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
+* Download CSV file: [train.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/train.csv), [test.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/test.csv), [simple_submission.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/simple_submission.csv)
+* Download Inference: [109550006_final_inference.ipynb](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/109550006_final_inference.ipynb)
 * Put all files in the same dic
   ```python
   <dic>
