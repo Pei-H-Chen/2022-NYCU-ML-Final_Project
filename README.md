@@ -23,25 +23,17 @@ Your task is to use the data to predict individual product failures of new codes
 ![截圖 2023-01-10 上午1 43 02](https://user-images.githubusercontent.com/96174316/211377030-0016b2b5-bda8-4c32-82f7-0e11bc4b7d28.png)
 
 ## Reproducing Submission
-1. Install Require package
+### 1. Install Require package
 ```python
 pip install numpy
 pip install pandas
 pip install matplotlib
 pip install -U scikit-learn
 ```
-2. Prepare file
-* CSV files
-  * train.csv
-  * test.csv
-  * simple_submission.csv
-* Inference Code
-  * `109550006_Final_inference.ipynb`
-* models
-  * [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
 
-3. Step
-* Put all prepare files in same <dic>
+### 2. Preparing files
+* Download models: [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
+* Put all prepare files in same dic
   ```python
   <dic>
   |- train.csv
@@ -50,10 +42,12 @@ pip install -U scikit-learn
   |- 109550006_Final_inference.ipynb
   |- models.pckl
   ```
-* Run `109550006_Final_inference.ipynb`
- * You will get the result `109550006_sub.csv`.
 
-## Reference
+### 3. Run Code
+Run `109550006_Final_inference.ipynb`.
+You will get the result `109550006_sub.csv`.
+
+## References
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
 2. [TPS August | EDA + Failure Prediction](https://www.kaggle.com/code/devsubhash/tps-august-eda-failure-prediction/notebook)
 3. [TPS-Aug22 9th solution](https://www.kaggle.com/code/takanashihumbert/tps-aug22-9th-solution/notebook)
