@@ -25,4 +25,9 @@ Your task is to use the data to predict individual product failures of new codes
 ## Test
 - models link: https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link
 
-##
+## Reproducing Submission
+
+## Reference
+1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
+2. [TPS August | EDA + Failure Prediction](https://www.kaggle.com/code/devsubhash/tps-august-eda-failure-prediction/notebook)
+3. [TPS-Aug22 9th solution](https://www.kaggle.com/code/takanashihumbert/tps-aug22-9th-solution/notebook)
