@@ -22,14 +22,6 @@ Your task is to use the data to predict individual product failures of new codes
 * My result: 0.59126
 ![截圖 2023-01-10 上午1 43 02](https://user-images.githubusercontent.com/96174316/211377030-0016b2b5-bda8-4c32-82f7-0e11bc4b7d28.png)
 
-## Train
-### Data Pre-Process
-### Model
-
-## Inference
-1. Load model ([Download models](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link))
-2. 
-
 ## Reproducing Submission
 1. Install Require package
 ```python
@@ -58,8 +50,8 @@ pip install -U scikit-learn
   |- 109550006_Final_inference.ipynb
   |- models.pckl
   ```
-* Execute all the cells
-  You will get `109550006_sub.csv` file.
+* Run `109550006_Final_inference.ipynb`
+You will get the result `109550006_sub.csv`.
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
