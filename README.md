@@ -22,10 +22,22 @@ Your task is to use the data to predict individual product failures of new codes
 * My result: 0.59126
 ![截圖 2023-01-10 上午1 43 02](https://user-images.githubusercontent.com/96174316/211377030-0016b2b5-bda8-4c32-82f7-0e11bc4b7d28.png)
 
-## Test
-- models link: https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link
+## Train
+### Data Pre-Process
+### Model
+
+## Inference
+1. Load model ([models link](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link))
+2. 
 
 ## Reproducing Submission
+1. Installation
+'''
+    pip install numpy
+    pip install pandas
+    pip install matplotlib
+    pip install -U scikit-learn
+'''
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
