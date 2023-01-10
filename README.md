@@ -1,4 +1,9 @@
 # 2022-NYCU-ML-Final_Project
+This is a challenge of Kaggle! [website link](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/overview)
+![截圖 2023-01-10 下午5 49 33](https://user-images.githubusercontent.com/96174316/211518113-fd76bd0f-6613-4f76-810b-6a7d0b69e8e9.png)
+
+## 
+
 ## Train
 
 ## Test
