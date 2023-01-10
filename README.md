@@ -33,10 +33,10 @@ Your task is to use the data to predict individual product failures of new codes
 ## Reproducing Submission
 1. Installation
 '''
-    pip install numpy
-    pip install pandas
-    pip install matplotlib
-    pip install -U scikit-learn
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install -U scikit-learn
 '''
 
 ## Reference
