@@ -40,13 +40,26 @@ pip install -U scikit-learn
 ```
 2. Prepare file
 * CSV files
-** train.csv
-** test.csv
-** simple_submission.csv
+  * train.csv
+  * test.csv
+  * simple_submission.csv
 * Inference Code
-** `109550006_Final_inference.ipynb`
+  * `109550006_Final_inference.ipynb`
 * models
-** [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
+  * [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
+
+3. Step
+* Put all prepare files in same dic
+  ```python
+  <dic>
+  |- train.csv
+  |- test.csv
+  |- simple_submission.csv
+  |- 109550006_Final_inference.ipynb
+  |- models.pckl
+  ```
+* Execute all the cells
+  You will get `109550006_sub.csv` file.
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
