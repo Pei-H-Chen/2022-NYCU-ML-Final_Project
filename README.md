@@ -32,12 +32,12 @@ Your task is to use the data to predict individual product failures of new codes
 
 ## Reproducing Submission
 1. Installation
-'''python
+```python
 pip install numpy
 pip install pandas
 pip install matplotlib
 pip install -U scikit-learn
-'''
+```
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
