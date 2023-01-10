@@ -27,17 +27,26 @@ Your task is to use the data to predict individual product failures of new codes
 ### Model
 
 ## Inference
-1. Load model ([models link](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link))
+1. Load model ([Download models](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link))
 2. 
 
 ## Reproducing Submission
-1. Installation
+1. Install Require package
 ```python
 pip install numpy
 pip install pandas
 pip install matplotlib
 pip install -U scikit-learn
 ```
+2. Prepare file
+* CSV files
+** train.csv
+** test.csv
+** simple_submission.csv
+* Inference Code
+** `109550006_Final_inference.ipynb`
+* models
+** [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
