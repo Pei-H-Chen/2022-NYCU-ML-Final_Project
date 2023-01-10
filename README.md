@@ -37,6 +37,7 @@ Your task is to use the data to predict individual product failures of new codes
 ### 3. Predict & output csv
 
 ## Reproducing Submission
+You could use google colab and just run the .ipynb with prepared files.
 ### 1. Install Require package
 ```python
 pip install numpy
