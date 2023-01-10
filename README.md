@@ -25,8 +25,16 @@ Your task is to use the data to predict individual product failures of new codes
 ## Training
 ### 1. Data Pre-Processing
 * Encode attribute_0 & attribute_1
+* Use HuberRegressor to fill measurement_17
+* Use KNNImputer to fill other column
+* Add two columns: m3_missing & m5_missing
+### 2. Main model: Logistic Regression
+### 3. Save model
 
 ## Inference
+### 1. Load model
+### 2. Pre-process train data & test data
+### 3. Predict & output csv
 
 ## Reproducing Submission
 ### 1. Install Require package
