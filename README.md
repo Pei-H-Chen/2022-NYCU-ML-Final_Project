@@ -51,14 +51,14 @@ pip install -U scikit-learn
 * Download CSV file:
 [train.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/train.csv), 
 [test.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/test.csv),
-[simple_submission.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/simple_submission.csv)
-* Download Inference: [109550006_final_inference.ipynb](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/109550006_final_inference.ipynb)
+[sample_submission.csv](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/sample_submission.csv)
+* Download Inference: [109550006_Final_inference.ipynb](https://github.com/Pei-H-Chen/2022-NYCU-ML-Final_Project/blob/main/109550006_Final_inference.ipynb)
 * Put all files in the same dic
   ```python
   <dic>
   |- train.csv
   |- test.csv
-  |- simple_submission.csv
+  |- sample_submission.csv
   |- 109550006_Final_inference.ipynb
   |- models.pckl
   ```
