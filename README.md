@@ -41,7 +41,7 @@ pip install -U scikit-learn
   * [models.pckl](https://drive.google.com/file/d/1F21z1mY8nLb02w5YxX9gpq8JSExCptuC/view?usp=share_link)
 
 3. Step
-* Put all prepare files in same dic
+* Put all prepare files in same <dic>
   ```python
   <dic>
   |- train.csv
@@ -51,7 +51,7 @@ pip install -U scikit-learn
   |- models.pckl
   ```
 * Run `109550006_Final_inference.ipynb`
-You will get the result `109550006_sub.csv`.
+ * You will get the result `109550006_sub.csv`.
 
 ## Reference
 1. [TPSAUG22 EDA which makes sense ⭐️⭐️⭐️⭐️⭐️](https://www.kaggle.com/code/ambrosm/tpsaug22-eda-which-makes-sense)
